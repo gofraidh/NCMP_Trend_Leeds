@@ -1,2 +1,2 @@
 # NCMP Trend Leeds
-Thsi respoitoty contains R script to produce interactive plot for NCMP Trend in Leeds.
+This repo contains R script to produce interactive plot for NCMP Trend in Leeds.
